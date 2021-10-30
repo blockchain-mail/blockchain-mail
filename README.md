@@ -1,4 +1,4 @@
-<h1>test</h1>
+<h1>The hybride blockchain projet - combine JSON / PHP / WebServer😆</h1>
 
 àJe suis Français, je vais donc écrire dans la langue maternelle.
 Pourquoi j'essai de créer une solution blockchain pour les courriels ?
